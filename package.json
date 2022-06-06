@@ -1,13 +1,13 @@
 {
   "name": "quick-vue-cli",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "快速创建vue3项目的脚手架",
   "main": "index.js",
   "bin": {
-    "quick-vue": "outfile.js"
+    "quick-vue": "outfile.mjs"
   },
   "files": [
-    "outfile.js",
+    "outfile.mjs",
     "template"
   ],
   "engines": {
