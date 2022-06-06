@@ -1,4 +1,4 @@
-/*! quick-vue-cli v1.0.7 | MIT */
+/*! quick-vue-cli v1.0.8 | MIT */
 var __defProp = Object.defineProperty;
 var __defProps = Object.defineProperties;
 var __getOwnPropDescs = Object.getOwnPropertyDescriptors;
