@@ -1,0 +1,29 @@
+{
+  "name": "c-vue",
+  "version": "1.0.0",
+  "description": "快速创建vue3项目的脚手架",
+  "main": "index.js",
+  "bin": {
+    "c-vue": "outfile.cjs"
+  },
+  "files": [
+    "outfile.cjs",
+    "template"
+  ],
+  "engines": {
+    "node": "^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "build": "zx ./scripts/build.mjs"
+  },
+  "author": "xfy196",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "^0.14.42",
+    "esbuild-plugin-license": "^1.2.2",
+    "kolorist": "^1.5.1",
+    "minimist": "^1.2.6",
+    "prompts": "^2.4.2",
+    "zx": "^5.3.0"
+  }
+}
