@@ -1,5 +1,5 @@
 #! /usr/bin/env node
-/*! quick-vue-cli v1.0.9 | MIT */
+/*! quick-vue-cli v1.1.0 | MIT */
 var __defProp = Object.defineProperty;
 var __defProps = Object.defineProperties;
 var __getOwnPropDescs = Object.getOwnPropertyDescriptors;
