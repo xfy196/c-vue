@@ -24,7 +24,7 @@ SOFTWARE.
   await esbuild.build({
     bundle: true,
     entryPoints: ["index.js"],
-    outfile: "outfile.cjs",
+    outfile: "outfile.js",
     format: "cjs",
     platform: "node",
     target: "node14",
